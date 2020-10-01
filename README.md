@@ -1,4 +1,4 @@
-# SpikeForest (v2)
+# SpikeForest (v2) - An Amazing Project
 
 This project contains the processing pipelines needed to reproduce the benchmarking results presented on the [spikeforest website](https://spikeforest.flatironinstitute.org).
 
